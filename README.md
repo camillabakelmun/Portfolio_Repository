@@ -5,7 +5,6 @@ Welcome to my portfolio of data analytics projects! This is where I showcase my 
 ## Projects
 
 ### 1. [Goodreads Reading Habits Analysis](https://github.com/camillabakelmun/goodreads_dashboard)
-![Dashboard Preview](Goodreads_Dashboard_Screenshot.png)
 - **Description:** Analyzed personal reading habits using Goodreads data and created interactive Tableau dashboards. Explored insights such as favorite authors, reading trends by year, and rating comparisons.
 - **Tools Used:** Tableau, Google Sheets, Excel
 - **Highlights:**
